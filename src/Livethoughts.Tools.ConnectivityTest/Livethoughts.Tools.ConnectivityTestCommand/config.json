@@ -1,0 +1,12 @@
+﻿{
+  "Destinations": [
+    {
+      "IPAddress": "127.0.0.1",
+      "Ports": [ 80, 20 ]
+    },
+    {
+      "IPAddress": "127.0.0.2",
+      "Ports": [ 81, 21 ]
+    }
+  ]
+}
