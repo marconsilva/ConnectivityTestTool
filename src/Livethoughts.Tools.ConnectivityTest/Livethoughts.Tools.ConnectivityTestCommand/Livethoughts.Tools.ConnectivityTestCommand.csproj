@@ -3,6 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>ConnectivityTestCommand</AssemblyName>
+    <Authors>Marco Antonio Silva</Authors>
+    <Company>Livethoughts</Company>
   </PropertyGroup>
 
   <ItemGroup>
